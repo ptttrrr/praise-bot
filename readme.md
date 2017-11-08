@@ -1,0 +1,1 @@
+Experimenting making a slack bot hosted in Azure.
